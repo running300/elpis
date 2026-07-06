@@ -2,6 +2,8 @@
 
 > package.json
 
+- ghooks: git提交库，在git提交前，执行一些钩子函数
+
 ```json
 {
   "config": {
